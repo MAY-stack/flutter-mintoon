@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:mintoon/screens/home_screen.dart';
-import 'package:mintoon/services/api_service.dart';
+// import 'package:mintoon/services/api_service.dart';
 
 void main() {
-  ApiService().getTodaysToons();
+  // ApiService().getTodaysToons();
   runApp(const App());
 }
 
